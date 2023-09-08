@@ -9,5 +9,5 @@
 # git rm --cached <имя файла>
 # git commit
 # git commit -m "первый commit"
-# добавил изменения
+# файл - .gitignore
 
