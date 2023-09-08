@@ -19,3 +19,4 @@
 # git config --global user.name "<имф пользователя>"
 # git config --global user.email
 # git config --global user.email "<название почты>"
+# git push -u origin master
