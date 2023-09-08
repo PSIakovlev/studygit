@@ -15,3 +15,7 @@
 # git branch -D <название ветки>
 # git checkout <название ветки>
 # git checkout -b <название ветки>
+# git config --global user.name
+# git config --global user.name "<имф пользователя>"
+# git config --global user.email
+# git config --global user.email "<название почты>"
